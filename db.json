@@ -59,6 +59,18 @@
       "name": "Fido",
       "isGoodDog": true,
       "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_5.jpg"
+    },
+    {
+      "name": "Gator",
+      "isGoodDog": "on",
+      "image": "",
+      "id": 11
+    },
+    {
+      "name": "Gator",
+      "isGoodDog": "on",
+      "image": "",
+      "id": 12
     }
   ]
 }
